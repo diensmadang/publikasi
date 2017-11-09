@@ -1,0 +1,53 @@
+.signup, .upload-paper {
+    margin-top: 80px;
+}
+.signup .form-control {
+    margin-bottom: 32px;
+}
+.navbar {
+    margin-bottom: 0px;
+}
+.navbar-default {
+    background-color: #fff;
+}
+.navbar-brand {
+    padding: 0px;
+}
+.navbar-btn-upload {
+    padding: 6px 12px !important;
+}
+.navbar-brand>img {
+    height: 100%;
+    padding: 10px;
+    width: auto;
+}
+.nav> li {
+    border-left: 1px solid #e7e7e7;
+    padding: 0 18px;
+}
+.profile {
+    background-color: #f8f8f8;
+    margin-bottom: 40px;
+}
+.profile-user {
+    padding: 40px 15px;
+}
+.profile-pictures {
+    margin-bottom: 20px;
+}
+.profile-pictures:hover {
+    opacity: 0.5;
+}
+.profile-details h3 {
+    margin-top: 0px;
+}
+.biografi {
+    margin-top: 20px;
+}
+.img-center {
+    margin: 0 auto;
+}
+.wise {
+    padding: 20px 0;
+    font-size: 16px;
+}
